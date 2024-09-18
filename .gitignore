@@ -119,3 +119,5 @@ Thumbs.db
 /vendor/**/.git/
 /vendor/**/spec/
 /vendor/**/tests/
+
+.ssh/
